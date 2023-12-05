@@ -1,0 +1,43 @@
+/* header and banner task 2*/
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    max-width: 1200px; 
+    margin: auto;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+
+
+
+
+/* footer task 7 */
+footer {
+background-color: black;
+color: white;
+width: 80%;
+text-align: center;
+
+}
+
+.logo {
+display: left;
+}
+.links {
+text-align: right;
+}
+.iconesocial {
+
+}
+.copyright {
+color: white;
+font-size:medium;
+display: center;
+}
